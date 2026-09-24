@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Site-Dependent VAE and AAE Performance for Unsupervised SAR Oil-Spill Detection"
+type: software
+message: "If you use this repository, please cite the associated paper."
+authors:
+  - family-names: "Ashish"
+    given-names: "J. Kingsly Jeba"
+  - family-names: "Pandey"
+    given-names: "Hardeep"
+abstract: >-
+  Code and supporting materials for unsupervised SAR oil-spill anomaly detection
+  using Variational Autoencoders and Adversarial Autoencoders across the MV
+  Wakashio and DARTIS-2019 datasets.
+keywords:
+  - synthetic aperture radar
+  - SAR
+  - oil spill detection
+  - anomaly detection
+  - variational autoencoder
+  - adversarial autoencoder
+  - remote sensing
+  - DARTIS-2019
+  - MV Wakashio
